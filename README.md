@@ -3,11 +3,17 @@ Explore the fundamentals of Linux with this comprehensive repository. Delve into
 Certainly! Here are 25 basic Linux commands along with brief descriptions of what they do:
 
 ls: List files and directories in the current location.
+
 cd: Change the current directory.
+
 pwd: Print the current working directory.
+
 mkdir: Create a new directory.
+
 touch: Create an empty file.
+
 cp: Copy files or directories.
+
 mv: Move files or directories.
 rm: Remove files or directories.
 cat: Display the contents of a file.
