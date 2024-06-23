@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction to Linux</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Introduction to Linux</h1>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="#history">History and Evolution of Linux</a></li>
+                <li><a href="#distributions">Distributions and Flavors</a></li>
+                <li><a href="#installation">Installation of Linux</a></li>
+            </ul>
+        </nav>
+        <section id="history">
+            <h2>History and Evolution of Linux</h2>
+            <p>Linux is an open-source operating system that was created by Linus Torvalds in 1991. It has since evolved into one of the most important platforms for servers, desktops, and embedded systems. Its development is driven by a community of developers and companies that contribute to its code and documentation.</p>
+        </section>
+        <section id="distributions">
+            <h2>Distributions and Flavors</h2>
+            <p>There are many different distributions (or "distros") of Linux, each tailored for different uses and preferences. Some of the most popular include:</p>
+            <ul>
+                <li>Ubuntu</li>
+                <li>CentOS</li>
+                <li>Fedora</li>
+                <!-- Add more distributions as needed -->
+            </ul>
+        </section>
+        <section id="installation">
+            <h2>Installation of Linux</h2>
+            <p>Installing Linux can be done in several ways, including:</p>
+            <ul>
+                <li>Dual Boot</li>
+                <li>Virtual Machines</li>
+                <!-- Add more installation methods if needed -->
+            </ul>
+        </section>
+        <footer>
+            <p>&copy; 2024 Your Name</p>
+        </footer>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
