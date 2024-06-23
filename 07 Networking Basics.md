@@ -42,6 +42,8 @@ traceroute example.com
 
 # Perform DNS lookup
 nslookup example.com
+```
 
 ### Summary
-Networking basics in Linux involve understanding essential commands like ifconfig, ping, and netstat for network interface management, connectivity testing, and network status. Configuring network interfaces involves setting IP addresses, routes, and DNS. SSH provides secure remote access, while tools like traceroute and nslookup aid in troubleshooting network issues by tracing routes and querying DNS servers, respectively.
+
+Networking basics in Linux involve understanding essential commands like `ifconfig`, `ping`, and `netstat` for network interface management, connectivity testing, and network status. Configuring network interfaces involves setting IP addresses, routes, and DNS. SSH provides secure remote access, while tools like `traceroute` and `nslookup` aid in troubleshooting network issues by tracing routes and querying DNS servers, respectively.
