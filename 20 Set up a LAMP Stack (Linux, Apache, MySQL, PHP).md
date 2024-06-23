@@ -48,7 +48,7 @@ sudo apt install apache2
 
 2. **Test Apache**: Open a web browser and navigate to your server's IP address or domain name (if DNS is configured). You should see the Apache default page indicating a successful installation.
 
-   ![Apache Default Page](apache-default-page.png)
+   🌐 **Apache Default Page**: Navigate to `http://your_server_ip` and you should see the Apache default page.
 
 ### Step 3: Install MySQL (MariaDB)
 
@@ -115,7 +115,7 @@ sudo apt install php libapache2-mod-php php-mysql
 
 2. **Access PHP Info**: Open a web browser and navigate to `http://your_server_ip/info.php`. You should see the PHP information page displaying detailed information about your PHP configuration.
 
-   ![PHP Info Page](php-info-page.png)
+   📊 **PHP Info Page**: Navigate to `http://your_server_ip/info.php` to view detailed PHP configuration information.
 
 ### Step 5: Configure Apache for Virtual Hosting (Optional)
 
@@ -196,7 +196,7 @@ After completing the installation and configuration of Apache, MySQL, and PHP, i
 
 2. **Access the Test Script**: Open a web browser and navigate to `http://your_server_ip/test.php`. You should see a message indicating successful connection to MySQL.
 
-   ![PHP MySQL Connection Test](php-mysql-test.png)
+   📊 **PHP MySQL Connection Test**: Navigate to `http://your_server_ip/test.php` to verify PHP's connection to MySQL.
 
 ### Step 7: Secure and Optimize the LAMP Stack
 
@@ -226,4 +226,4 @@ Regularly monitor your LAMP stack for performance metrics, security updates, and
 
 ## Summary
 
-Setting up a LAMP stack on Linux provides a robust foundation for hosting dynamic web applications
+Setting up a LAMP stack on Linux provides a robust foundation for hosting dynamic web
