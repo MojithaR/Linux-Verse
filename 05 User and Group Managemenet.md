@@ -1,6 +1,3 @@
-Certainly! Below is the content formatted using GitHub Markdown with emojis, tables, and colors, saved in a file named `User and Group Management.md`:
-
-```markdown
 # User and Group Management
 
 ## User Management Commands 🧑‍💻
