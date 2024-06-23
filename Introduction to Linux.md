@@ -34,5 +34,5 @@ Installing Linux can be done in several ways, including:
 </div>
 
 <footer style="text-align: center; padding: 20px; background: #333; color: #fff; border-radius: 10px; margin-top: 20px;">
-    &copy; 2024 Your Name
+    &copy; 2024 R.A.D.Tithira Mojitha Ranasingha
 </footer>
